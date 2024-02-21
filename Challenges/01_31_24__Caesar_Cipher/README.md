@@ -1,11 +1,9 @@
 Part 1:
   1. Reverse a string
-  2. Insert a character (or characters) into the string
-  3. Delete a character (or characters) in the string
+  2. Insert a character into the string
+  3. Delete a character in the string
 
-ie, "A brown dog" becomes "god nworb A", 
-next I insert "lazy " in the original string at a specific index and it becomes "A lazy brown dog", 
-next I remove "brown" from the original string and it becomes "A dog".
+ie, "A brown dog" becomes "god nworb A", next I insert "!" in the original string at a specific index and it becomes "A brown dog!", next I remove "!" from the original string and it becomes "A brown dog".
 
 Part 2: 
 Create a Caesar Cipher (ROT13). A user should be able to insert a string to be ROT13 encoded, 
